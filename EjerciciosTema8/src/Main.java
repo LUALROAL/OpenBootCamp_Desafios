@@ -36,8 +36,7 @@ public class Main {
             return this.nombre;
         }
 
-        private int
-                edad;
+        private int  edad;
 
         public void setEdad(int edad) {
             this.edad = edad;
